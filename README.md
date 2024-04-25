@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pooja-kumawa
+- 👋 Hi, I’m @pooja-kumawat
 - 👀 I’m interested in learning and exploring...
 - 🌱 I’m currently learning to develop website application etc...
 - 💞️ I’m looking to collaborate on github with you...
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-pooja-kumawa/pooja-kumawa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+pooja-kumawa/pooja-kumawat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
